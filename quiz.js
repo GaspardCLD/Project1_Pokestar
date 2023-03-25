@@ -28,7 +28,7 @@ let question1 = new Question("Quelle est ton activité préférée ?","La nature
 
 let question2 = new Question("Quelle est ta couleur préférée ?","Bleu","vaporeon","Jaune","jolteon","Beige","eevee","Rouge","flareon");
 
-let question3 = new Question("Tu es plutôt d'humeur...", "Douce et apaisée","eevee","Sanguine et massacrante","flareon", "Electrique","jolteon","Lisse et facile","vaporeon");
+let question3 = new Question("Tu es plutôt d'humeur...", "Douce et apaisée","eevee","Sanguine","flareon", "Electrique","jolteon","Lisse et facile","vaporeon");
 
 let question4 = new Question("Quel est ton dessin animé préféré ?","La petite sirène","vaporeon","Moi, moche et méchant","jolteon","Bambi","eevee","Dragons","flareon");
 
